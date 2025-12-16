@@ -1,7 +1,7 @@
 <!-- ===================== HERO SECTION ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Nizeyimana%20Placide&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Developer%20|%20System%20Architect%20|%20Tech%20Innovator&descAlign=50&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Nizeyimana%20Placide(CBS)&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Developer%20|%20System%20Architect%20|%20Tech%20Innovator&descAlign=50&descAlignY=60" />
 
 </div>
 
