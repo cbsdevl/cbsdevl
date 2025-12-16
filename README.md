@@ -55,5 +55,6 @@ AI / Automation █████████░░░░░░ 65%
 <img src="https://skillicons.dev/icons?i=python,tensorflow" /><br>
 🛠️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" /> </div>
-``
+🤝 CONNECT WITH ME
+<div align="center"> <a href="https://github.com/cbsdevl"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" /> </a> <a href="mailto:nizeyimanaplacide2@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
 <!-- ===================== FOOTER ===================== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&section=footer&text=Code%20With%20Purpose%20⚡&fontSize=20" /> </div> 
