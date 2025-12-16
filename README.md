@@ -1,28 +1,44 @@
-<!-- █████████████████████████████████████████████████ -->
-<!--                    HERO CORE                     -->
-<!-- █████████████████████████████████████████████████ -->
-
+<!-- ===================== HERO SECTION ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=350&color=gradient&text=Nizeyimana%20Placide&fontSize=60&fontAlign=50&fontAlignY=38&desc=Architecting%20Systems%20That%20Think%20|%20Build%20|%20Scale&descSize=18&descAlign=50&descAlignY=62" />
-
-<p align="center">
-  <b>Full-Stack Engineer • System Designer • Tech Visionary</b><br/>
-  <i>Code is my language. Systems are my art.</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Nizeyimana%20Placide&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Developer%20|%20System%20Architect%20|%20Tech%20Innovator&descAlign=50&descAlignY=60" />
 
 </div>
 
 ---
 
-<!-- █████████████████████████████████████████████████ -->
-<!--               DIGITAL IDENTITY                   -->
-<!-- █████████████████████████████████████████████████ -->
+<!-- ===================== LIVE STATUS ===================== -->
+<div align="center">
 
-```yaml
-Developer:
-  Name: Nizeyimana Placide
-  Origin: Rwanda 🇷🇼
-  Role: Full-Stack & Backend Architect
-  Mindset: Build once, scale forever
-  Availability: Open to serious projects
+🟢 **Status:** Building real-world systems that scale  
+🌍 **Location:** Rwanda  
+⚡ **Mission:** Turn complex ideas into powerful software  
+
+</div>
+
+---
+
+## 🧠 WHO AM I?
+
+> I am not just a developer.  
+> I am a **problem solver**, **system thinker**, and **digital architect**.
+
+I specialize in **designing intelligent systems** that combine:
+- Clean architecture
+- Scalable databases
+- Secure backend logic
+- Modern UI/UX
+
+I believe **code should think, adapt, and grow** — just like humans.
+
+---
+
+## 🧩 CORE SKILL MATRIX
+
+```txt
+Frontend        ████████████░░░ 85%
+Backend         ██████████████░░ 90%
+Database        █████████████░░░ 88%
+System Design   ███████████████░ 95%
+Security        ██████████░░░░░ 70%
+AI / Automation █████████░░░░░░ 65%
