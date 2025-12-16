@@ -67,7 +67,7 @@ Clean, modern UI
 
 <p> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/AI-000000?style=flat&logo=openai"/> </p> </td> <td width="50%" valign="top">
 ☁️ SchoolCloud
-<img src="https://images.unsplash.com/photo-1524178232363-1fb2b075b655?q=80&w=800" />
+<img src="https://cbsoft.vercel.app/cloud-infrastructure-dashboard.png" />
 
 Cloud-based school management ecosystem built for scalability and real-time collaboration.
 
