@@ -42,3 +42,16 @@ Database        █████████████░░░ 88%
 System Design   ███████████████░ 95%
 Security        ██████████░░░░░ 70%
 AI / Automation █████████░░░░░░ 65%
+
+⚙️ TECHNOLOGY STACK
+<div align="center">
+🧱 Backend & Systems
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python" />
+🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs" />
+🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
+🧠 AI / Automation
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" /> </div>
