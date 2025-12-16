@@ -85,7 +85,7 @@ Secure authentication
 
 <p> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/> </p> </td> </tr> <tr> <td width="50%" valign="top">
 📦 Smart SAMS
-<img src="https://images.unsplash.com/photo-1553413077-190dd305871c?q=80&w=800" />
+<img src="https://smart-sams.rf.gd/images/dash.png" />
 
 Smart Stock & Asset Management System built for businesses that need accuracy and control.
 
