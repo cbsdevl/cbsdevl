@@ -49,7 +49,7 @@ Real-world systems. Production mindset. Scalable architecture.
 
 <div align="center"> <table> <tr> <td width="50%" valign="top">
 🏥 MediBot AI
-<img src="https://images.unsplash.com/photo-1581091870627-3c0a40a9d3b1?q=80&w=800" />
+<img src="https://medibotrwanda.vercel.app/b3.png" />
 
 AI-powered medical assistance platform designed to help users get fast, intelligent health guidance.
 
