@@ -103,7 +103,7 @@ Print & PDF reports
 
 <p> <img src="https://img.shields.io/badge/Laravel-F05340?style=flat&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/> </p> </td> <td width="50%" valign="top">
 🌍 RFO – NGO Platform
-<img src="https://images.unsplash.com/photo-1509099836639-18ba1795216d?q=80&w=800" />
+<img src="https://cdn.dribbble.com/userupload/28221085/file/original-6721eaae44a5ddba2a68f166fcfbae6f.png?resize=1024x768&vertical=center" />
 
 NGO management system designed to support transparency, reporting, and digital operations.
 
