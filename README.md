@@ -46,12 +46,12 @@ AI / Automation █████████░░░░░░ 65%
 ⚙️ TECHNOLOGY STACK
 <div align="center">
 🧱 Backend & Systems
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python" /><br>
 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs" /><br>
 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" /><br>
 🧠 AI / Automation
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow" /><br>
 🛠️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" /> </div>
